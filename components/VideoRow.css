@@ -1,0 +1,51 @@
+.videoRow {
+  display: flex;
+  max-width: 925px;
+  margin-bottom: 13px;
+}
+
+.videoRow > img {
+  width: 375px;
+  height: 215px;
+  object-fit: contain;
+}
+
+.videoRow_text {
+  margin-left: 13px;
+  margin-top: 3px;
+}
+
+.videoRow_text > h3 {
+  font-size: 19px;
+  font-weight: 400;
+  font-family: sans-serif;
+}
+
+.videoRow_text > p {
+  color: #505050;
+  font-size: 14px;
+}
+
+.videoRow_channel {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.channelRow_logo {
+  height: 25px !important;
+  width: 25px !important;
+}
+
+.videoRow_channel > p {
+  color: #505050;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.videoRow_description > p {
+  color: #505050;
+  font-size: 14px;
+  margin-top: 15px;
+}

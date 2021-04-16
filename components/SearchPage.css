@@ -1,0 +1,27 @@
+.searchPage {
+  background-color: #f9f9f9;
+  padding-left: 3%;
+  padding-top: 2%;
+}
+
+.tuneIcon {
+  color: #696969;
+}
+
+.filter > h4 {
+  color: #696969;
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.filter {
+  display: flex;
+}
+
+.searchPage > hr {
+  height: 2px;
+  border: 0px;
+  background-color: #e8e8e8;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}

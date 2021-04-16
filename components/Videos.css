@@ -1,0 +1,33 @@
+.videos {
+  background-color: #f9f9f9;
+  padding: 20px 20px;
+  padding-bottom: 0;
+}
+
+.videos > hr {
+  height: 4px;
+  border: 0px;
+  background-color: #dcdcdc;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.recommendedVideos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sectionTitle {
+  margin-top: 0px;
+}
+
+.sectionTitle > h3 {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.topNews {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 25px;
+}
